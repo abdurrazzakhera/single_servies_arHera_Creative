@@ -2,124 +2,127 @@
   {
     "id": 1,
     "name": "Wedding Package 8",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 80000,
     "duration": "6 hours (approx.)",
     "packageincludes": [
-      "Chief Photographer) full event",
-      "03 Senior Photographers Will Cover the Whole Event",
+      "Chief Photographer  full event",
+      "03 Photographers Will Cover the  Event",
       "200 copies 4r Size Printed Photographs",
-      "03 copy 12L(12″x18″) Size Printed Photographs",
-      "Final movie duration 30 to 40 minutes",
       "Exclusive video trailer",
-      "All taken photographs & video will be provided on Pen Drive"
+      "photo & video will give penDrive."
     ]
   },
   {
     "id": 2,
     "name": "Wedding Package 6",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 35000,
     "duration": "6 hours (approx.)",
     "packageincludes": [
       "Chief Photographer 2 hrs",
-      "02 Senior Photographers Will Cover the Whole Event",
-      "01 Cinematographer with Full Frame DSLR camer",
+      "02 Photographers Will Cover  Event",
+      "Cinematographer with Full  DSLR camer",
       "150 copies 4r Size Printed Photographs",
-      "Final movie duration 30 to 40 minutes",
-      "Exclusive video trailer (Edited version)",
-      "All taken photographs & video will be provided on Pen Drive"
+      "Final movie duration 30 to 40 min"
     ]
   },
   {
     "id": 3,
     "name": "Wedding Package 3",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 15000,
     "duration": "4 hours (approx.)",
     "packageincludes": [
-      "01 Associate Photographer Will Cover the Whole Event",
-      " 01 Cinematographer with Full Frame DSLR camera",
-      "50 copies 4r Size Printed Photographs",
-      "Final movie duration 30 to 40 minutes (approx)",
-      "Exclusive video trailer (Edited version)",
+      "Associate Photographer Will Cover Event",
+      "Cinematographer with Full DSLR camera",
+      " 4r Size Printed Photographs",
+      "Final movie duration 30 to 40 min",
       "Edited Image Selected"
     ]
   },
   {
     "id": 4,
     "name": "Outdoor Session Signature",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 80000,
     "duration": "2 hours (approx.)",
     "packageincludes": [
-      "Abu Sufian Nilove (Chief Photographer)",
-      "All taken photographs will be provided on DVD.",
-      "25 copies 4r Size Printed Photographs",
+      "Abu Sufian Chief Photographer",
+      "photo & video will give penDrive.",
+      "Final movie duration 30 to 40 min",
+      "25 copies 4r Size Printed Photo",
       "Edited Image Selected"
     ]
   },
   {
     "id": 5,
     "name": "Wedding Package 2",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 10000,
     "duration": "5 hours (approx.)",
     "packageincludes": [
-      "01 Senior Photographer Will Cover the Whole Event",
-      "50 copies 4r Size Printed Photographs (Matte/Glossy paper)",
+      "Photographer Will Cover the  Event",
+      "50 copies 4r Size Printed Photo",
       "Edited Image Selected",
       "Exclusive Photo Album",
-      "All taken photographs & video will be provided on DVD.",
-      "NB: Only Venue Oriented Photography"
+      "photo & video will give penDrive."
     ]
   },
   {
     "id": 6,
     "name": "Studio Session Standard",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 6000,
     "duration": "2 hours (approx.)",
     "packageincludes": [
       "01 Senior Photographer",
       "Edited Image Selected",
-      "All taken photographs will be provided on DVD."
+      "Exclusive Photo Album",
+      "Final movie duration 30 to 40 min",
+      "photo & video will give penDrive."
     ]
   },
   {
     "id": 7,
     "name": "Outdoor Session Signature Blast",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 25000,
     "duration": "5 hours (approx.)",
     "packageincludes": [
-      "(Chief Photographer) & 01 Senior Photographer",
+      " 01 Senior Photographer",
       "Edited Image Selected",
-      "All taken photographs will be provided on DVD."
+      "Exclusive Photo Album",
+      "Final movie duration 30 to 40 min",
+      "photo & video will give penDrive."
     ]
   },
   {
     "id": 8,
     "name": "Outdoor Session Standard",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 8000,
     "duration": "3 hours (approx.)",
     "packageincludes": [
       "01 Senior Photographer",
       "Edited Image Selected",
-      "All taken photographs will be provided on DVD."
+      "Exclusive Photo Album",
+      "Final movie duration 30 to 40 min",
+      "photo & video will give penDrive."
     ]
   },
   {
     "id": 9,
     "name": "Studio Session Signature",
-    "image": "",
+    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
     "price": 12000,
     "duration": "2 hours (approx.)",
     "packageincludes": [
-      "Abu Sufian Nilove (Chief Photographer)",
+      "Abu Sufian Chief Photographer",
       "Edited Image Selected",
-      " All taken photographs will be provided on DVD."
+      "Exclusive Photo Album",
+      "Final movie duration 30 to 40 min",
+      "photo & video will give penDrive."
     ]
   }
 ]
