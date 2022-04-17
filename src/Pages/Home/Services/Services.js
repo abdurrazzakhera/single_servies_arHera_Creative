@@ -1,15 +1,15 @@
 import React from "react";
+import useServices from "../../../Hooks/useServices";
+import Service from "../Service/Service";
 
 const Services = () => {
+  const [services, setServices] = useServices();
   return (
     <div>
-      <h1>This is Services</h1>
-      <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium
-        culpa vel numquam, tenetur non fugiat obcaecati illo veniam molestias,
-        unde illum est, dolorum quisquam dolor nemo voluptate recusandae autem
-        eum.
-      </p>
+      <h1>This is Services : {services.length}</h1>
+      {services.map((service) => (
+        <Service key={service.id} service={service}></Service>
+      ))}
     </div>
   );
 };

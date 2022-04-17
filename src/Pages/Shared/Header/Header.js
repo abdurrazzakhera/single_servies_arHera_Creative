@@ -8,13 +8,15 @@ const Header = () => {
       <Navbar collapseOnSelect expand='lg' bg='dark' variant='dark'>
         <Container>
           <Navbar.Brand as={Link} to='/home'>
-            Home
+            Brand pic
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='responsive-navbar-nav' />
           <Navbar.Collapse id='responsive-navbar-nav'>
-            <Nav className='me-auto'>
+            <Nav className='ms-auto'>
+              <Nav.Link href='#features'>Home</Nav.Link>
               <Nav.Link href='#features'>Services</Nav.Link>
               <Nav.Link href='#pricing'>Galary</Nav.Link>
+              <Nav.Link href='#pricing'>Blog</Nav.Link>
               {/* <NavDropdown title='Dropdown' id='collasible-nav-dropdown'>
                 <NavDropdown.Item href='#action/3.1'>Action</NavDropdown.Item>
                 <NavDropdown.Item href='#action/3.2'>
