@@ -11,10 +11,11 @@ import SignUp from "./Pages/Home/Login/SignUp/SignUp";
 import CheckOut from "./Pages/Home/CheckOut/CheckOut";
 import Blogs from "./Pages/Home/Blogs/Blogs";
 import RequireAuth from "./Pages/Home/Login/RequirAuth/RequirAuth";
+import Galaray from "./Pages/Home/Galary/Galaray";
 
 function App() {
   return (
-    <div className='container '>
+    <div>
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
@@ -29,6 +30,7 @@ function App() {
             </RequireAuth>
           }
         ></Route>
+        <Route path='/galary' element={<Galaray></Galaray>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/signup' element={<SignUp></SignUp>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>

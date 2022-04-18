@@ -14,7 +14,7 @@ const Header = () => {
     <div>
       <Navbar collapseOnSelect expand='lg' bg='dark' variant='dark'>
         <Container>
-          <Navbar.Brand as={Link} to='/home'>
+          <Navbar.Brand as={Link} to='/'>
             Brand pic
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='responsive-navbar-nav' />
@@ -23,8 +23,12 @@ const Header = () => {
               <Nav.Link as={Link} to='/home'>
                 Home
               </Nav.Link>
-              <Nav.Link href='#features'>Services</Nav.Link>
-              <Nav.Link href='#pricing'>Galary</Nav.Link>
+              <Nav.Link as={Link} to='home#services'>
+                Services
+              </Nav.Link>
+              <Nav.Link as={Link} to='/galary'>
+                Galary
+              </Nav.Link>
               <Nav.Link as={Link} to='/blogs'>
                 Blog
               </Nav.Link>

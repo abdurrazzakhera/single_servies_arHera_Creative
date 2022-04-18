@@ -11,7 +11,7 @@ const Service = ({ service }) => {
   };
   return (
     <Col>
-      <Card style={{ height: "750px" }}>
+      <Card>
         <Card.Img variant='top' src={image} />
         <Card.Body>
           <Card.Title>{name}</Card.Title>

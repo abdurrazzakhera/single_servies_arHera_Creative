@@ -1,17 +1,21 @@
-.title-service {
+.img-galary img {
+  margin-bottom: 20px;
+}
+.title-photography {
   width: 300px;
   margin: 0 auto;
   position: relative;
+  margin-bottom: 50px;
 }
 
-.title-service::after {
+.title-photography::after {
   content: "";
   position: absolute;
   height: 5px;
   background-color: gray;
   width: 250px;
   left: 29px;
-  bottom: -5px;
+  bottom: -15px;
   font-weight: bold;
   border-radius: 10px;
 }
