@@ -1,0 +1,6 @@
+.condition span {
+  cursor: pointer;
+}
+.condition span:hover {
+  color: rgb(170, 164, 164);
+}
