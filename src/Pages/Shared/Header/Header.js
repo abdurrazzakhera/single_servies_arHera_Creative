@@ -60,7 +60,7 @@ const Header = () => {
             {user ? (
               <Button
                 onClick={logout}
-                className='text-light bg-secondary border-0'
+                className='text-light bg-secondary border-0 fs-5 fw-bold'
               >
                 Log Out
               </Button>
