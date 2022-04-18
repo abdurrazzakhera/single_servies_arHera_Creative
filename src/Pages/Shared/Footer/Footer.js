@@ -16,9 +16,9 @@ const Footer = () => {
         </div>
         <div>
           <p>
-            +880-1707-111-999, contact@nijolcreative.com <br />
+            +880-1707-111-999, contact@arhcreative.com <br />
             <FontAwesomeIcon icon={faCopyright}></FontAwesomeIcon> 2011 -{" "}
-            {date.getFullYear()} | NijolCreative Photography.
+            {date.getFullYear()} | AR'HIRACreative Photography.
           </p>
         </div>
         <div>
