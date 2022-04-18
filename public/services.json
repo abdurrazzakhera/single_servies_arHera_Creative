@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Wedding Package 8",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
+    "image": "https://i.ibb.co/zZcHD2r/pic-1-1.png",
     "price": 80000,
     "duration": "6 hours (approx.)",
     "packageincludes": [
@@ -13,24 +13,11 @@
       "photo & video will give penDrive."
     ]
   },
+
   {
     "id": 2,
-    "name": "Wedding Package 6",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
-    "price": 35000,
-    "duration": "6 hours (approx.)",
-    "packageincludes": [
-      "Chief Photographer 2 hrs",
-      "02 Photographers Will Cover  Event",
-      "Cinematographer with Full  DSLR camer",
-      "150 copies 4r Size Printed Photographs",
-      "Final movie duration 30 to 40 min"
-    ]
-  },
-  {
-    "id": 3,
     "name": "Wedding Package 3",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
+    "image": "https://i.ibb.co/v1m80yn/card-1.png",
     "price": 15000,
     "duration": "4 hours (approx.)",
     "packageincludes": [
@@ -42,9 +29,9 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Outdoor Session Signature",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
+    "image": "https://i.ibb.co/wgt4Y3S/pic-2-1.png",
     "price": 80000,
     "duration": "2 hours (approx.)",
     "packageincludes": [
@@ -56,9 +43,9 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Wedding Package 2",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
+    "image": "https://i.ibb.co/bmhfLKq/pic-4-1.png",
     "price": 10000,
     "duration": "5 hours (approx.)",
     "packageincludes": [
@@ -70,9 +57,9 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Studio Session Standard",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
+    "image": "https://i.ibb.co/G9JQx8D/pic-5-1.png",
     "price": 6000,
     "duration": "2 hours (approx.)",
     "packageincludes": [
@@ -84,41 +71,13 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Outdoor Session Signature Blast",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
+    "image": "https://i.ibb.co/Wfgx3Q9/pic-6-1.png",
     "price": 25000,
     "duration": "5 hours (approx.)",
     "packageincludes": [
       " 01 Senior Photographer",
-      "Edited Image Selected",
-      "Exclusive Photo Album",
-      "Final movie duration 30 to 40 min",
-      "photo & video will give penDrive."
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Outdoor Session Standard",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
-    "price": 8000,
-    "duration": "3 hours (approx.)",
-    "packageincludes": [
-      "01 Senior Photographer",
-      "Edited Image Selected",
-      "Exclusive Photo Album",
-      "Final movie duration 30 to 40 min",
-      "photo & video will give penDrive."
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Studio Session Signature",
-    "image": "https://i.ibb.co/jW0Ntyx/card-1.png",
-    "price": 12000,
-    "duration": "2 hours (approx.)",
-    "packageincludes": [
-      "Abu Sufian Chief Photographer",
       "Edited Image Selected",
       "Exclusive Photo Album",
       "Final movie duration 30 to 40 min",
