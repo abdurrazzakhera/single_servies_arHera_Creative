@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Wedding Package 8",
+    "name": "Wedding Package 1",
     "image": "https://i.ibb.co/zZcHD2r/pic-1-1.png",
     "price": 80000,
     "duration": "6 hours (approx.)",
@@ -16,7 +16,7 @@
 
   {
     "id": 2,
-    "name": "Wedding Package 3",
+    "name": "Wedding Package 2",
     "image": "https://i.ibb.co/v1m80yn/card-1.png",
     "price": 15000,
     "duration": "4 hours (approx.)",
@@ -44,7 +44,7 @@
   },
   {
     "id": 4,
-    "name": "Wedding Package 2",
+    "name": "Wedding Package 3",
     "image": "https://i.ibb.co/bmhfLKq/pic-4-1.png",
     "price": 10000,
     "duration": "5 hours (approx.)",

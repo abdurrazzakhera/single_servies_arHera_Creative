@@ -12,6 +12,7 @@ import CheckOut from "./Pages/Home/CheckOut/CheckOut";
 import Blogs from "./Pages/Home/Blogs/Blogs";
 import RequireAuth from "./Pages/Home/Login/RequirAuth/RequirAuth";
 import Galaray from "./Pages/Home/Galary/Galaray";
+import Booking from "./Pages/Home/Booking/Booking";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
             </RequireAuth>
           }
         ></Route>
+        <Route path='/booking' element={<Booking></Booking>}></Route>
         <Route path='/galary' element={<Galaray></Galaray>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/signup' element={<SignUp></SignUp>}></Route>
